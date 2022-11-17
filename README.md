@@ -1,4 +1,4 @@
-# quasi_1D_nozzle_flows
+# quasi-1D Nozzle Flows
 Contains quasi-one-dimensional flow through a convergent-divergent nozzle with and without shock capturing. 
 In quasi_1D_without_shock.m, the finite difference expression is set up using MacCormack's explicit technique for the numerical solution 
 of governing equations in non-conservation form; however, for the shock-capturing method, which is used in quasi_1D_with_shock_capturing.m, the conservation form of 
